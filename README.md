@@ -52,6 +52,6 @@ To run this project locally, follow these steps:
 
 ## Support
 
-If you encounter any issues or have questions, feel free to reach out me at shyamg3000@gmail.com.
+If you encounter any issues or have questions, feel free to reach out me at abhishek1ga20ec002@gmail.com.
 
 Thank you for choosing TechTune Motors for your vehicle servicing needs! Safe travels! 🚗✨
