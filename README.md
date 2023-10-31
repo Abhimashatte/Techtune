@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/shyamg090/TechTuneMotors.git
+   git clone https://github.com/abhimashatte/TechTune.git
    ```
 
 2. **Install Dependencies:**
